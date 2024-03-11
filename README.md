@@ -17,7 +17,9 @@ If none of the winning conditions are met and all cells are filled, the game is 
 Example Usage:
 
 Enter values: 1 2 1
+
 Enter values: 2 1 1
+
 Enter values: 1 1 2
 
 # The output will be: "PLAYER 1 won"
